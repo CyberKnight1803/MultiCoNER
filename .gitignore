@@ -1,0 +1,19 @@
+# Notebooks
+main.ipynb
+dataset.ipynb 
+
+# Datasets
+datasets/
+
+# Model testing
+runs/
+
+# Base Models
+base_models/
+
+# Useless scripts
+transfer.sh
+connect.sh 
+
+**/__pycache__
+
